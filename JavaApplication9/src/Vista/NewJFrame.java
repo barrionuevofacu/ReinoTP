@@ -22,7 +22,7 @@ public class NewJFrame extends javax.swing.JFrame {
         setLocationRelativeTo(null);
         setLocation(250,100);
         setResizable(false);
-        setTitle("EL REINO DE LA MIEL");
+        setTitle("EL REINO DE LA MIEL")
         panelCaja.setVisible(false);
         panelProductos.setVisible(false);
         panelPersonas.setVisible(false);
